@@ -1,6 +1,6 @@
 Ressouce used for this project: https://github.com/haoel/mTLS
 
-Then convert and export the certificate:
+Then convert and export the certificate to your browser:
 
 cat client.a.crt  client.a.key > client.a.pkcs12.pem
 
